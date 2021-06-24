@@ -1,0 +1,5 @@
+[TRACE] 2021-05-20 13:25:04.929 [main] Test1 - This is trace message
+[INFO ] 2021-05-20 13:25:04.934 [main] Test1 - This is information message
+[ERROR] 2021-05-20 13:25:04.934 [main] Test1 - This is error message
+[WARN ] 2021-05-20 13:25:04.934 [main] Test1 - This is warning message
+[FATAL] 2021-05-20 13:25:04.934 [main] Test1 - This is fatal message
